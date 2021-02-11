@@ -45,18 +45,3 @@ for (i = 0; i < mood.length; i++) {
   document.onload = generate();
 };
 
-
-/*function myFunction(x) {
-  if (x.matches) { // If media query matches
-    document.querySelector()(".select").style.width = "600px";
-    document.querySelector()("main").classList.add(".main");
-  } else {
-    document.querySelector()(".select").style.width = "1000px";
-    document.querySelector()("#main_bg").classList.add(".main_deskt");
-  }
-}
-
-var x = window.matchMedia("(max-width:700px)")
-myFunction(x) // Call listener function at run time
-x.addListener(myFunction) // Attach listener function on state changes
-*/
