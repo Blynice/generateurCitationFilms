@@ -91,13 +91,13 @@ p {
   }
   .text-mood {
     top: 41%;
-    left: 21%;
+    left: 26%;
     font-size: 18px;
   }
 
   .new-mood {
-    top: -17%;
-    left:  19%;
+    top: -18%;
+    left: 3%;
   }
   .header {
     width: 94rem;
