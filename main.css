@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 main{
-  width: 100rem;
+  width: 130rem;
 }
 
 body {
@@ -12,7 +12,6 @@ body {
 }
 
 .header {
-  width: 100rem;
   background-image: url("popcorn.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -101,7 +100,7 @@ p {
     left:  19%;
   }
   .header {
-    width: 85rem;
+    width: 94rem;
   }
   .select{
     margin-left: 9rem;
