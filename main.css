@@ -14,7 +14,7 @@ header img{
 }
 header{
     height: 15vh;
-    background-image: url("img/popcorn.jpg");
+    background-image: url("popcorn.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
